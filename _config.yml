@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
-title: "Your Full Name"
+title: "Bradley S. Harris"
 description: "Academic Homepage | CV | Research"
-url: "https://yourusername.github.io" # change to your GitHub Pages URL
+url: "https://bradsharris.github.io" # change to your GitHub Pages URL
 baseurl: "" # leave this blank for user.github.io, or set to "/repo" if using a project page
 
 # Author settings
