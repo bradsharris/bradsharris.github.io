@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+
 title: "Bradley S. Harris"
 description: "Academic Homepage | CV | Research"
 url: "https://bradsharris.github.io" 
@@ -25,7 +25,7 @@ author:
       url: "https://github.com/bradsharris"
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Plugins (required by Minimal Mistakes)
 plugins:
