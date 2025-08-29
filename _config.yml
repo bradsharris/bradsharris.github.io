@@ -8,25 +8,22 @@ baseurl: "" # leave this blank for user.github.io, or set to "/repo" if using a 
 author:
   name: "Your Name"
   avatar: "/assets/images/avatar.jpg" # optional photo
-  bio: "PhD Candidate / Researcher in [Field] at [University]"
-  location: "City, Country"
-  email: "your.email@example.com"
+  bio: "Postdoctoral Research Associate"
+  location: "Richland WA, USA"
+  email: "bradscottharris@gmail.com"
   links:
     - label: "CV"
       icon: "fas fa-file-alt"
       url: "/assets/CV.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=XXXXXX"
+      url: "https://scholar.google.com/citations?user=fwNmhaEAAAAJ&hl=en"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0000-0000-0000"
+      url: "https://orcid.org/my-orcid?orcid=0000-0001-9704-4656"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/yourhandle"
+      url: "https://github.com/bradsharris"
 
 # Theme settings
 theme: minimal-mistakes-jekyll
