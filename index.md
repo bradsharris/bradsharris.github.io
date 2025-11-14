@@ -9,7 +9,7 @@ Hi! I'm Bradley Harris
 
 I'm currently a Postdoctoral Researcher at the Pacific Northwest National Lab in the Chemical Physics Theory Team. 
 
-I specialize applying multiscale molecular models to address problems in materials assembly, structure prediction, and biological systems.
+I specialize in applying multiscale molecular models to address problems in materials assembly, structure prediction, and biological systems.
 
 ### 🔗 Academic Profiles
 
