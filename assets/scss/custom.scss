@@ -44,12 +44,12 @@
 */ 
 /* Make figures responsive and centered */
 .responsive-figure img {
-  max-width: 80%;       /* never exceed container width */    
-  height: auto;          /* maintain aspect ratio */
+  width: 80%;          /* scales image down from full width */
+  max-width: 800px;    /* optional max size for very wide screens */
+  height: auto;        /* maintain aspect ratio */
   display: block;
-  margin-left: auto;
-  margin-right: auto;    /* center */
-  object-fit: contain;   /* scale inside bounding box without cropping */
+  margin: 2rem auto;   /* center with vertical spacing */
+  object-fit: contain;
 }
 
 .responsive-figure {
