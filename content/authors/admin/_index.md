@@ -57,7 +57,7 @@ social:
   #   label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+    link: https://scholar.google.com/citations?user=fwNmhaEAAAAJ&hl=en
   #- icon: cv
   #  icon_pack: ai
   #  link: files/resume/resume-simon-gravelle.pdf
