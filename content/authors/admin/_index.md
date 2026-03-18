@@ -58,9 +58,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=fwNmhaEAAAAJ&hl=en
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: files/resume/resume-simon-gravelle.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/2pCV.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
@@ -70,8 +70,11 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 I am a computational scientist specializing in multiscale molecular modeling, computational chemistry and physics, and machine learning at the intersection of
 biology, material science and data science. My work involves developing and implementing computational workflows to meet the demands of experimental collaborators, as well as to make predictions to guide the direction of future experiments.
 
-{{< figure src="/img/Fig1.svg" caption="My Typical Workflow" class="full-width center" >}}
-
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/img/Fig1.svg" 
+       alt="Description of figure" 
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
 <!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a> -->
