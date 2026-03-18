@@ -31,7 +31,7 @@ experience:
     location: Davis, CA
     date_start: '2016-09-15'
     date_end: '2022-03-18'
-    description: Dissertation: "Molecular Modeling for 3D Printing and Biological Applications" - Mentors Roland Faller & Gang-yu Liu
+    description: "Dissertation: 'Molecular Modeling for 3D Printing and Biological Applications' - Mentors Roland Faller & Gang-yu Liu"
   # - title: Master in Computer Science
   #   company: Technical University of Vienna
   #   company_url: ''
