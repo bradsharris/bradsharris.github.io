@@ -51,7 +51,7 @@ experience:
   - title: Assistant Speech and Debate Coach
     company: Lawrence Free State High School
     company_url: ''
-    company_logo: lfshs
+    company_logo: ""
     location: Lawrence, KS
     date_start: '2016-06-01'
     date_end: '2015-05-01'
