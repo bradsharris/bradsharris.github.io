@@ -40,14 +40,14 @@ experience:
   #   date_start: '2020-10-01'
   #   date_end: '2022-04-30'
   #   description: Graduated with distinction - GPA 3.98/4 <br> My curricula focused on intelligent information systems (Symbolic & Neural AI, Database Systems)
-  - title: Bachelors in Chemical Engineering - biomedical emphasis
+  - title: Bachelors in Chemical Engineering
     company: University of Kansas
     company_url: ''
     company_logo: ku
     location: Lawrence, KS
     date_start: '2012-08-17'
     date_end: '2016-05-15'
-    description: 
+    description: Biomedical emphasis
   # - title: Bachelor in Economics
   #   company: Vienna University of Economics and Business
   #   company_url: ''
