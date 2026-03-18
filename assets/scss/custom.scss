@@ -62,14 +62,17 @@
     cursor: default;
 }
 
+@media (max-height: 700px) {
+  .responsive-figure img {
+    max-height: 50vh;  /* prevents image from taking over short viewports */
+    width: auto;
+  }
+}
+
 @media (max-height: 600px) {
   .responsive-figure img {
     max-height: 50vh; /* smaller figure on short screens */
   }
-  .main-content {
-    padding-top: 4rem; /* adjust header padding */
-  }
-}
 
 .article-container {
   max-width: 850px;
