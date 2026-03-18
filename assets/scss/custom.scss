@@ -263,6 +263,16 @@ h2, h3 {
 	}
 }
 
+/* Fix About section clipping on large screens */
+#about .vertical-center {
+  align-items: flex-start !important;
+}
+
+.home-section {
+  height: auto !important;
+  min-height: 100vh;
+}
+
 //custom css for awards
 #accomplishments {
   .margin-top {
