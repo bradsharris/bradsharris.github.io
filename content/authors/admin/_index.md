@@ -51,9 +51,9 @@ social:
     link: https://github.com/bradsharris
     display:
       header: true
-  # - icon: mastodon
-  #   icon_pack: fab
-  #   link: https://mastodon.social/@simongravelle
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bradley-harris2/
   #   label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
@@ -70,11 +70,8 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 I am a computational scientist specializing in multiscale molecular modeling, computational chemistry and physics, and machine learning at the intersection of
 biology, material science and data science. My work involves developing and implementing computational workflows to meet the demands of experimental collaborators, as well as to make predictions to guide the direction of future experiments.
 
-<div style="text-align: center; margin: 2em 0;">
-  <img src="/img/Fig1.svg" 
-       alt="Description of figure" 
-       style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-</div>
+{{< figure src="/media/Fig1.png" caption="My typical workflow" class="full-width center responsive-figure" >}}
+
 <!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a> -->
