@@ -68,7 +68,9 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 ### About me ##
 
 I am a computational scientist specializing in multiscale molecular modeling, computational chemistry and physics, and machine learning at the intersection of
-biology, material science and data science.
+biology, material science and data science. My work involves developing and implementing computational workflows to meet the demands of experimental collaborators, as well as to make predictions to guide the direction of future experiments.
+
+{{< figure src="/media/Fig1.png" caption="My Typical Workflow" class="full-width center" >}}
 
 <!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
