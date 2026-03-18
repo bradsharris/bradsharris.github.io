@@ -27,7 +27,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: Pacific Northwest National Laboratory (PNNL)
     company_url: ''
-    company_logo: pnnl
+    company_logo: ""
     location: Richland, WA
     date_start: '2022-09-21'
     date_end: 
