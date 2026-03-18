@@ -37,7 +37,7 @@
 }
 
 .main-content {
-  padding-top: 3rem;   /* adjust based on header height */
+  padding-top: 6rem;   /* adjust based on header height */
 }
 /*
 .btn-download::before {
@@ -47,8 +47,7 @@
 */ 
 /* Make figures responsive and centered */
 .responsive-figure img {
-  max-width: 100%;       /* never exceed container width */
-  max-height: 60vh;      /* never taller than 80% of viewport */
+  max-width: 100%;       /* never exceed container width */    
   height: auto;          /* maintain aspect ratio */
   display: block;
   margin-left: auto;
@@ -56,9 +55,23 @@
   object-fit: contain;   /* scale inside bounding box without cropping */
 }
 
+.responsive-figure {
+  margin-top: 1.5rem;  /* space between text and figure */
+  margin-bottom: 2rem; /* space below figure */
+}
+
 .background-img {
     pointer-events: none;
     cursor: default;
+}
+
+@media (max-height: 600px) {
+  .responsive-figure img {
+    max-height: 50vh; /* smaller figure on short screens */
+  }
+  .main-content {
+    padding-top: 4rem; /* adjust header padding */
+  }
 }
 
 .article-container {
